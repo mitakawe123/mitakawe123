@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **SIGNITY V2**
 
-- 🌱 I’m currently learning **Puppeteer**
+- 🌱 I’m currently learning **Kubernetes**
 
 - 💬 Ask me about **Frontend**
 
