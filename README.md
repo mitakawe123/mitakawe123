@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Database language**
+- 🔭 I’m currently working on **DBMS**
 
 - 🌱 I’m currently learning **Kubernetes**
 
